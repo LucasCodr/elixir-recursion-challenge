@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="json_response" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/test/lib/json_response/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/json_response/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/json_response/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/json_response/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/json_response/ebin" />
+      <root url="file://$PROJECT_DIR$/_build/test/lib/json_response/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/json_response/lib" />
+      <root url="file://$PROJECT_DIR$/deps/json_response/lib" />
+      <root url="file://$PROJECT_DIR$/deps/json_response/lib" />
+    </SOURCES>
+  </library>
+</component>
